@@ -1,0 +1,26 @@
+*{ 
+    color: blueviolet;
+    border: solid;
+}
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-between
+}
+.grid{
+    background-color: rgb(179, 255, 0);
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+h2,p{
+text-align: center;
+
+}
+.footer{
+    background-color: rgb(163, 101, 8);
+display: flex;
+justify-content: flex-end;
+}
